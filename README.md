@@ -32,7 +32,7 @@ The example systems consists of the following matrices:
 
 <img src="images/example-system.png" alt="Example system" width="85%"> 
 
-WE consider different structures of the 2&times;2 gain matrix:
+We consider different structures of the 2×2 gain matrix:
 
 <img src="images/example-gain.png" alt="Example system" width="85%"> 
 
