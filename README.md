@@ -45,6 +45,7 @@ File | Description
 [`ex-place-arbitrary.red`](src/ex-place-arbitrary.red) | Test of arbitrary eigenvalue assignability
 [`ex-place-special.red`](src/ex-place-special.red) | Test of a special eigenvalue assignability
 [`ex-stab.red`](src/ex-stab.red) | Test of stabilizability
+[`ex-stab-real.red`](src/ex-stab-real.red) | Test of real stabilizability
 
 ## Licence
 
