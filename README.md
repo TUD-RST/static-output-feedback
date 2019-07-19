@@ -22,7 +22,7 @@ http://www.redlog.eu/
 
 ## Example
 
-To illustrate our approach we use Example 4.1 from the following reference:
+To illustrate our approach we modified Example 4.1 from the following reference:
 
 Yannakoudakis, A. G.:
 [*The static output feedback from the invariant point of view.*](https://doi.org/10.1093/imamci/dnu057)   
@@ -43,7 +43,7 @@ The [src](src) directory contains the source REDUCE files listed in the next tab
 File | Description
 :--- | :---
 [`ex-place-arbitrary.red`](src/ex-place-arbitrary.red) | Test of arbitrary eigenvalue assignability
-[`ex-place-special.red`](src/ex-place-special.red) | Test of arbitrary eigenvalue assignability
+[`ex-place-special.red`](src/ex-place-special.red) | Test of a special eigenvalue assignability
 [`ex-stab.red`](src/ex-stab.red) | Test of stabilizability
 
 ## Licence
