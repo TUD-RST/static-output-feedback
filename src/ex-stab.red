@@ -1,7 +1,5 @@
-% Automatic Generation of Bounds for Polynomial Systems with Application to the Lorenz System
-% REDUCE source file
-% Spherical bounds with fixed center
-% Formulation with differential inequality
+% Static output feedback design
+% Stabilizability
 load_package "redlog";
 % Select algebraic context: Real field
 rlset r;
