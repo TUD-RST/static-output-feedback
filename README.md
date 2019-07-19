@@ -42,8 +42,8 @@ The [src](src) directory contains the source REDUCE files listed in the next tab
 
 File | Description
 :--- | :---
-[`ex-place-arbitrary.red`] | Test of arbitrary eigenvalue assignability
-`ex-stab.red` | Test of stabilizability
+[`ex-place-arbitrary.red`](src/ex-place-arbitrary.red) | Test of arbitrary eigenvalue assignability
+[`ex-stab.red`](src/ex-stab.red) | Test of stabilizability
 
 ## Licence
 
