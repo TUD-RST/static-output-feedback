@@ -38,6 +38,8 @@ We consider different structures of the 2×2 gain matrix:
 
 ## Contents
 
+The [src](src) directory contains the source REDUCE files listed in the next table. These files differ in the geometry of the bounds and the problem formulation.
+
 ## Licence
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
