@@ -28,6 +28,14 @@ Yannakoudakis, A. G.:
 [*The static output feedback from the invariant point of view.*](https://doi.org/10.1093/imamci/dnu057)   
 IMA Journal of Mathematical Control and Information 33(3):639-668, 2016.
 
+The example systems consists of the following matrices:
+
+<img src="images/example-system.png" alt="Example system" width="85%"> 
+
+WE consider different structures of the 2&times;2 gain matrix:
+
+<img src="images/example-gain.png" alt="Example system" width="85%"> 
+
 ## Contents
 
 ## Licence
