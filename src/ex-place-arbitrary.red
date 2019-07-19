@@ -28,7 +28,7 @@ CP:=det(s*Id-M);
 CPS:=a0+a1*s+a2*s^2+a3*s^3+s^4;
 % Coefficient matching
 cond:=for j:=0 : 3 mkand coeffn(CPS,s,j)=coeffn(CP,s,j);
-% Prenex formulation: Arbitrary eogenvalue assignability
+% Prenex formulation: Arbitrary eigenvalue assignability
 phi:=all({a0,a1,a2,a3},ex({k11,k12,k21,k22},cond));
 % Quantifier elimination
 psi:=rlqe(phi);
