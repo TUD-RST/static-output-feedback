@@ -1,7 +1,12 @@
 # Static Output Feedback
-Static Output Feedback Controller Design Using Quantifier Elimination
+
+## Static Output Feedback Controller Design Using Quantifier Elimination
 
 This project contains the REDUCE source files for several decision problems occurring in static output feedback design of linear time-invaraint systems. The decision problems are formally solved using quantifier elimination.
+
+Röbenack, K., Voßwinkel, R.: 
+[*Eigenvalue placement by quantifier elimination-the static output feedback problem*](https://doi.org/10.14232/actacyb.24.3.2020.8).   
+Acta Cybernetica, 24(3), 409-427, 2020.
 
 ## Prerequisites
 
